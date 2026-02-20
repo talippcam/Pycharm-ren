@@ -117,4 +117,4 @@ for i in range(6):
     turtle_instance.left(50)
 
 #turtle.done()
-turtle.mainloop()
+turtle.mainloop()#asdasf

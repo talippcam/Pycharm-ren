@@ -33,4 +33,4 @@ drawing_board.onkey(fun=clear, key="i")
 drawing_board.onkey(fun=return_home, key="h")
 drawing_board.onkey(fun=pen_up, key="2")
 drawing_board.onkey(fun=pen_down, key="1")
-turtle.mainloop() #adassdsadsad
+turtle.mainloop() #adaskjadbgaskljd

@@ -3,7 +3,6 @@ import turtle
 drawing_board = turtle.Screen()
 drawing_board.bgcolor("white")
 drawing_board.title("Yeni Oyun")
-
 turtle_instance=turtle.Turtle()
 turtle_instance.speed(1)
 turtle_instance.color("red")
